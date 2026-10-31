@@ -18,7 +18,7 @@ git init
 git add .
 git commit -m "ThreadSwap clothing exchange marketplace"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/threadswap.git
+git remote add origin https://github.com/abhinavgond/threadswap.git
 git push -u origin main
 ```
 
